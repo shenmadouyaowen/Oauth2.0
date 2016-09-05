@@ -1,0 +1,29 @@
+{
+    "name": "shenmdyw/think",
+    "description": "oauth 2.0",
+    "type": "project",
+    "keywords": [
+        "oauth",
+        "oauth2.0",
+        "oauth"
+    ],
+    "homepage": "http://shenmdyw.com/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "shenmadouyaowen",
+            "email": "shenmadouyaowen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "shenmadouyaowen/Oauth2.0": "*"
+    },
+    "extra": {
+        "think-path": "oauth"
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
