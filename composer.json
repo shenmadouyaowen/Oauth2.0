@@ -1,5 +1,5 @@
 {
-    "name": "shenmdyw/think",
+    "name": "shenmdyw/oauth",
     "description": "oauth 2.0",
     "type": "project",
     "keywords": [
@@ -20,7 +20,7 @@
         "shenmadouyaowen/Oauth2.0": "*"
     },
     "extra": {
-        "think-path": "oauth"
+        "oauth-path": "oauth"
     },
     "minimum-stability": "dev",
     "config": {
