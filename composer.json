@@ -25,5 +25,10 @@
     "minimum-stability": "dev",
     "config": {
         "preferred-install": "dist"
-    }
+    },
+     "autoload": {
+        "files": [
+            "/" #自动加载composer.json同级目录service文件夹下的文件
+        ] 
+      }
 }
